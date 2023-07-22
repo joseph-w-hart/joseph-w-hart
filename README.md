@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Joe Hart and I am an aspiring software developer!
+Growing up in a Nintendo household was formative; as was being the youngest of four siblings. Don’t get me wrong, I love my brothers, but Mario never gave me a wedgie or tricked me into eating deodorant. The joy I discovered while experiencing the creativity, adventure, and challenge of video games made a lasting impression.
+
+Throughout my scientific career, I refined my detail-oriented and problem-solving skills by performing analytical testing, data review, and laboratory investigations. My professional progression can be attributed to my dedication to continuous learning and following through on my commitment to deliver accurate and reliable results. Ultimately, my desire to create software solutions optimizing laboratory workflows piqued my interest in programming.
+
+Recognition of my need for complete immersion in a structured learning environment led me to Tech Elevator; an experience that validated my decision to pursue software development. The creativity of defining classes, the adventure of learning and mastering new programming concepts, and the challenge of designing and debugging code are as engaging as playing my favorite video game. So, when I'm developing software, I'm not working, I'm having fun!
+
+I am currently seeking an opportunity as a Junior Software Developer where I can bring my experience and enthusiasm for technology to a collaborative team and growing organization.
